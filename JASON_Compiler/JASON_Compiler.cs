@@ -19,6 +19,7 @@ namespace JASON_Compiler
             Jason_Scanner.StartScanning(SourceCode);
             //Parser
             Jason_Parser.StartParsing(TokenStream);
+            Console.WriteLine(TokenStream.Count);
             treeroot = Jason_Parser.root;
         } 
     }

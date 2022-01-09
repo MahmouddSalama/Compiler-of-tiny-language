@@ -25,6 +25,7 @@ namespace JASON_Compiler
             PrintTokens();
             treeView1.Nodes.Add(Parser.PrintParseTree(JASON_Compiler.treeroot));
             PrintErrors();
+            treeView1.ExpandAll();
         }
         void PrintTokens()
         {
@@ -55,6 +56,10 @@ namespace JASON_Compiler
             treeView1.Nodes.Clear();
             Errors.Error_List.Clear();
         }
-        
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
