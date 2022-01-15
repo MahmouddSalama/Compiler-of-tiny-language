@@ -4,8 +4,8 @@ This project in compiler theory course in fcis and this project's output is
 * The parser tree of expressions
 # 
 This project written by C Sharp programming language & GUI
-In the Scanner class the tockens of lexeams of language
-In the parser class the tree of lexeams of language
+* In the Scanner class the tockens of lexeams of language
+* In the parser class the tree of lexeams of language
 #
 In the Docs  section there are pdfs of project 
 * Context Free Grammar
