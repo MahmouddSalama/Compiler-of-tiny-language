@@ -1,4 +1,4 @@
-# Compiler-of-tiny-language
+# Compiler of tiny language
 This project in compiler theory course in fcis and this project's output is 
 * The Tockens of lexeams in programming language 
 * The parser tree of expressions
@@ -11,5 +11,5 @@ In the Docs  section there are pdfs of project
 * Context Free Grammar
 * Regular Expression
 * DFA
-
+#
 There are test cases file in the project folder you can test code
